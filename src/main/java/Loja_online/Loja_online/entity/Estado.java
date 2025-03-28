@@ -7,8 +7,7 @@ import org.yaml.snakeyaml.events.Event;
 
 import java.util.Date;
 
-@Getter
-@Setter
+
 @Entity
 @Table (name ="estado")
 @Data
